@@ -37,7 +37,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "esprima": "~2.4.0"
+    "esprima": "^2.4.0"
   },
   "devDependencies": {
     "grunt": "~0.4.0",
